@@ -1,4 +1,3 @@
-
 # 🛒 Awesome Amazon Scrapers [![ScrapeOps Badge](https://img.shields.io/badge/powered_by-ScrapeOps-blue)](https://scrapeops.io)
 
 > A curated collection of the best open-source scrapers for Amazon — across Python, Node.js, Puppeteer, Playwright, Selenium, and more.  
@@ -6,8 +5,9 @@
 
 ---
 
-## 🔍 What’s Inside
-This repo helps you find the **most reliable, actively maintained scrapers** for Amazon, so you don’t have to build from scratch.  
+## 🔍 What's Inside
+This repo helps you find the **most reliable, actively maintained scrapers** for Amazon, so you don't have to build from scratch.  
+
 Each scraper comes with:
 
 - ✅ Tech stack (Playwright, Puppeteer, Requests, etc.)
@@ -23,7 +23,17 @@ Perfect for:
 
 ---
 
-## 📦 Featured Scrapers
+## 📑 Quick Index
+- [Featured Scrapers](#featured-amazon-scrapers)
+- [Scrapers By Language](#amazon-scrapers-by-language)
+- [Need Rotating Proxies or CAPTCHA Solving for Amazon](#rotating-proxies-or-captcha-solving-for-amazon)
+- [Amazon Tutorials & How-Tos](#amazon-tutorials)
+- [Contributing](#contributing)
+- [Compare Proxy Providers](#compare-proxies)
+
+---
+
+## 📦 Featured Scrapers <a id="featured-amazon-scrapers"></a>
 > 🏅 Hand-picked, most robust & well-maintained scrapers.
 
 | Name | Language | Stars | Maintained | Last Updated | ScrapeOps-Ready |
@@ -36,7 +46,7 @@ Perfect for:
 
 ---
 
-## 🧑‍💻 Scrapers By Language
+## 🧑‍💻 Amazon Scrapers By Language <a id="amazon-scrapers-by-language"></a>
 
 ### Node.js
 | Name | Stars | Last Updated | Library | Maintained |
@@ -59,45 +69,51 @@ Perfect for:
 
 ---
 
-## 🔐 Need Rotating Proxies or CAPTCHA Solving for Amazon?
+## 🔐 Need Rotating Proxies or CAPTCHA Solving for Amazon?<a id="rotating-proxies-or-captcha-solving-for-amazon"></a>
 
 > Amazon uses aggressive anti-bot tech (CAPTCHAs, IP bans, JS challenges).  
-> If your Amazon scraper fails, it’s not the code — it’s the infrastructure.
+> If your Amazon scraper fails, it's not the code — it's the infrastructure.
 
 ✅ [ScrapeOps Proxy Aggregator](https://scrapeops.io/proxy-aggregator/) helps:  
 - Route requests through 20 + proxy providers  
 - Automatically rotate and retry failed requests  
 - Reduce ban rate and increase success on Amazon
 
-🎁 **Get 1M free credits** to test your scraper 👉 [Start here](https://scrapeops.io)
+🎁 **Get 1000 free credits** to test your Amazon scraper 👉 [Start here](https://scrapeops.io)
 
 ---
 
-## 🧠 Tutorials & How-Tos
+## 🧠 Amazon Tutorials & How-Tos<a id="amazon-tutorials"></a>
 - 📘 [How to Scrape Amazon at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-amazon/)
-- 🔐 [Bypassing Amazon Bot Protection](https://scrapeops.io/web-scraping-playbook/anti-bot-strategies/)
-- 🧪 [How to Use ScrapeOps with Playwright](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/playwright/)
+- 🔐 [Web Scraping Amazon Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
+- 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
 ---
 
-## 📈 Contributing
-Got a scraper to add?  
-- Fork the repo  
-- Add to scrapers.json
-- Submit a PR  
+## 📈 Contributing<a id="contributing"></a>
 
-We update this list every month. All contributions welcome!
+Know a Amazon scraper we missed? Want us to include your project?
+
+- Click **[New Issue](../../issues/new)** on this repo
+- Include the GitHub URL, language, and brief description
+- We’ll validate and include it in the next update
+
+All contributions welcome! We'll vet and include approved scrapers in the next update.
 
 ---
 
-## 📣 Stay Updated
-Want more high-signal web scraping insights?
+## 📣 Want to Compare Proxies?<a id="compare-proxies"></a>
 
-> 📰 [**The Web Scraping Insider**](https://scrapeops.io/newsletter) – A weekly newsletter with no fluff, just tactical scraping strategies.
+> 📰 Use our [**Proxy Comparison Tool**](https://scrapeops.io/proxy-providers/comparison/) to benchmark proxy providers based on Price, IP, Bandwithdh & Pages.
 
 ---
 
 ## 🏷 Tags
-Amazon scraper, web scraping, python scraper, playwright, data scraping, anti-bot, open source, github, scrapeops
+Amazon scraper, web scraping, amazon API, python scraper, playwright, data scraping, anti-bot, github, open-source amazon crawler, ScrapeOps
+
+
+---
+
+🎁 **Get 1000 free credits** to test your Amazon scraper 👉 [Start here](https://scrapeops.io)
 
 ---
