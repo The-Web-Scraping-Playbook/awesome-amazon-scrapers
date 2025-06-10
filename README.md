@@ -59,7 +59,7 @@ Perfect for:
 
 ---
 
-## 🔐 Need Rotating Proxies or CAPTCHA Solving?
+## 🔐 Need Rotating Proxies or CAPTCHA Solving for Amazon?
 
 > Amazon uses aggressive anti-bot tech (CAPTCHAs, IP bans, JS challenges).  
 > If your Amazon scraper fails, it’s not the code — it’s the infrastructure.
