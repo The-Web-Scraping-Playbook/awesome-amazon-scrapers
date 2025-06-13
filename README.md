@@ -1,4 +1,4 @@
-# 🛒 Awesomee Amazon Scrapers [![ScrapeOps Badge](https://img.shields.io/badge/powered_by-ScrapeOps-blue)](https://scrapeops.io)
+# 🛒 Awesome Amazon Scrapers [![ScrapeOps Badge](https://img.shields.io/badge/powered_by-ScrapeOps-blue)](https://scrapeops.io)
 
 > A curated collection of the best open-source scrapers for Amazon — across Python, Node.js, Puppeteer, Playwright, Selenium, and more.  
 > Updated regularly • Filterable by language, stars, last updated, and maintenance status.
