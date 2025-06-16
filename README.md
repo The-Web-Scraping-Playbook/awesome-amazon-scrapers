@@ -23,6 +23,17 @@ Perfect for:
 
 ---
 
+## 🧠 Amazon OpsKit
+> Find out everything you need to know to reliably scrape Amazon with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/amazon)
+
+This kit provides the blueprint for Amazon scraping operations:
+- **Overview:** Scraping Summary, Anti-Bots
+- **Data:** Data Types, Public APIs
+- **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
+- **Resources:** GitHub, Articles, YouTube
+
+---
+
 ## 📑 Quick Index
 - [Featured Scrapers](#featured-amazon-scrapers)
 - [Scrapers By Language](#amazon-scrapers-by-language)
@@ -47,25 +58,24 @@ Perfect for:
 ---
 
 ## 🧑‍💻 Amazon Scrapers By Language <a id="amazon-scrapers-by-language"></a>
+### Python
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [amazon-scraper](https://github.com/oxylabs/amazon-scraper) | ⭐ 1743 | 2025-04-09 | professional | ✅ Yes |
+| [amazon-scraper-python](https://github.com/tducret/amazon-scraper-python) | ⭐ 880 | 2020-10-13 | immediate | ❌ No |
+| [amazon-scraper](https://github.com/scrapehero-code/amazon-scraper) | ⭐ 390 | 2023-06-13 | immediate | ❌ No |
+| [amazon_scraper](https://github.com/adamlwgriffiths/amazon_scraper) | ⭐ 234 | 2017-11-04 | professional | ❌ No |
+| [amazon-reviews-scraper](https://github.com/philipperemy/amazon-reviews-scraper) | ⭐ 127 | 2024-11-21 | immediate | ❌ No |
+| [amazon-python-scrapy-scraper](https://github.com/ian-kerins/amazon-python-scrapy-scraper) | ⭐ 86 | 2022-09-20 | immediate | ❌ No |
+| [amazon-review-scraper](https://github.com/scrapehero-code/amazon-review-scraper) | ⭐ 65 | 2024-02-23 | professional | ❌ No |
+| [amazon-scraper](https://github.com/voshawn/amazon-scraper) | ⭐ 61 | 2015-09-19 | immediate | ❌ No |
+| [Amazon-Review-Scraper](https://github.com/shreyas707/Amazon-Review-Scraper) | ⭐ 48 | 2019-06-11 | immediate | ❌ No |
+
 
 ### Node.js
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [amazon-product-api](https://github.com/drawrowfly/amazon-product-api) | ⭐ 691 | 2024-07-05 | — | ❌ No |
-
-
-### Python
-| Name | Stars | Last Updated | Library | Maintained |
-|------|-------|--------------|---------|------------|
-| [amazon-scraper](https://github.com/oxylabs/amazon-scraper) | ⭐ 1743 | 2025-04-09 | — | ✅ Yes |
-| [amazon-scraper-python](https://github.com/tducret/amazon-scraper-python) | ⭐ 880 | 2020-10-13 | — | ❌ No |
-| [amazon-scraper](https://github.com/scrapehero-code/amazon-scraper) | ⭐ 390 | 2023-06-13 | — | ❌ No |
-| [amazon_scraper](https://github.com/adamlwgriffiths/amazon_scraper) | ⭐ 234 | 2017-11-04 | — | ❌ No |
-| [amazon-reviews-scraper](https://github.com/philipperemy/amazon-reviews-scraper) | ⭐ 127 | 2024-11-21 | — | ❌ No |
-| [amazon-python-scrapy-scraper](https://github.com/ian-kerins/amazon-python-scrapy-scraper) | ⭐ 86 | 2022-09-20 | — | ❌ No |
-| [amazon-review-scraper](https://github.com/scrapehero-code/amazon-review-scraper) | ⭐ 65 | 2024-02-23 | — | ❌ No |
-| [amazon-scraper](https://github.com/voshawn/amazon-scraper) | ⭐ 61 | 2015-09-19 | — | ❌ No |
-| [Amazon-Review-Scraper](https://github.com/shreyas707/Amazon-Review-Scraper) | ⭐ 48 | 2019-06-11 | — | ❌ No |
+| Name | Stars | Last Updated | Level | Maintained |
+|------|-------|--------------|-------|------------|
+| [amazon-product-api](https://github.com/drawrowfly/amazon-product-api) | ⭐ 691 | 2024-07-05 | immediate | ❌ No |
 
 ---
 
