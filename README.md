@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Amazon OpsKit
-> Find out everything you need to know to reliably scrape Amazon with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/amazon)
+> Find out everything you need to know to reliably scrape Amazon with our new tool: [Ops Kit](https://scrapeops.io/websites/amazon)
 
 This kit provides the blueprint for Amazon scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -94,7 +94,7 @@ This kit provides the blueprint for Amazon scraping operations:
 ---
 
 ## 🧠 Amazon Tutorials & How-Tos<a id="amazon-tutorials"></a>
-- 📘 [How to Scrape Amazon at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-amazon/)
+- 📘 [How to Scrape Amazon at Scale](https://scrapeops.io/websites/amazon/how-to-scrape-amazon)
 - 🔐 [Web Scraping Amazon Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
