@@ -23,10 +23,10 @@ Perfect for:
 
 ---
 
-## 🧠 Amazon OpsKit
-> Find out everything you need to know to reliably scrape Amazon with our new tool: [Ops Kit](https://scrapeops.io/websites/amazon)
+## 🧠 Amazon Website Scraping Analyzer
+> Find out everything you need to know to reliably scrape Amazon with our new tool: [Website Scraping Analyzer](https://scrapeops.io/websites/amazon)
 
-This kit provides the blueprint for Amazon scraping operations:
+Our Website Scraping Analyzer provides the blueprint for Amazon scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
 - **Data:** Data Types, Public APIs
 - **Legal:** Legality Review, Robots.txt, Terms & Conditions, Lawsuits
@@ -120,7 +120,6 @@ All contributions welcome! We'll vet and include approved scrapers in the next u
 
 ## 🏷 Tags
 Amazon scraper, web scraping, amazon API, python scraper, playwright, data scraping, anti-bot, github, open-source amazon crawler, ScrapeOps
-
 
 ---
 
